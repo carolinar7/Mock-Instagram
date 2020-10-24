@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mock-Instagram</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="description">Description...</string>
+    <string name="take_picture">Take Picture</string>
+    <string name="submit">Submit</string>
+    <string name="sign_up">Sign Up</string>
+</resources>
