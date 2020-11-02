@@ -17,9 +17,11 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 
 Part 1:
+
 <img src='https://imgur.com/NTgIhht.gif'/>
 
 Part 2:
+
 <img src='https://imgur.com/NTgIhht.gif'/>
 
 ## Open-source libraries used
