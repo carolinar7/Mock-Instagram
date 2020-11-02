@@ -22,7 +22,7 @@ Part 1:
 
 Part 2:
 
-<img src='https://imgur.com/NTgIhht.gif'/>
+<img src='https://imgur.com/EJWG9Nf.gif'/>
 
 ## Open-source libraries used
 
